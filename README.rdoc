@@ -1,6 +1,6 @@
 == Contacts
 
-This rails-api is study about integrate AngularJS with Ruby on Rails.
+This rails-api is a study about integrate AngularJS with Ruby on Rails.
 
 See more at: angular-start repository.
 
